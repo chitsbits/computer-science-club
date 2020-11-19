@@ -6,13 +6,15 @@
 
 - Git and GitHub
 - Terminals and command line interfaces
-- Environment variables, pipenv
+- Environment variables
 
 ### Advanced Functions
 
 - Functions as variables
 - Higher order functions
 - Closure
+- Anonymous functions
+- `*args` and `**kwargs`
 - Decorators
 
 ## From Waiting to `await`ing
@@ -22,13 +24,10 @@
 - IP addresses and ports, clients and servers
 - Sockets (echo, tic-tac-toe)
 
-### A Classic Solution
+### Concurrency and Parallelism
 
 - Threads and locking
 - Callbacks
-
-### Concurrency and Parallelism
-
 - Event loop and workers
 - Implement an event loop?
 
